@@ -1,0 +1,4 @@
+- Diagrama de casos de uso
+- Diagrama de clases
+- Modelo E/R
+- Documento de requisitos con pantallazos y funciones
